@@ -76,7 +76,7 @@ go run main_concurrente.go
 ## 📎 Autor
 
 Claudia Sifuentes
-Práctica Calificada 2 – Programación Concurrente y Distribuida
+Programación Concurrente y Distribuida
 UPC – 2025-1
 
 
